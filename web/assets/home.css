@@ -1,0 +1,93 @@
+body{
+    background-image: url(eclair.png), url(https://i.imgur.com/14uH65r.jpg);
+    background-repeat: no-repeat;
+    background-position: 50%;
+    font-family: 'Indie Flower', cursive !important;
+    font-size: 1.5rem;
+}
+.card{
+    margin-top: -4rem;
+    box-shadow: 5px 10px;
+
+}
+
+.card-img-top {
+    min-width: 368px;
+    max-width: 368px;
+    min-height: 425px;
+    max-height: 425px;
+}
+.card-img-top2 {
+    min-width: 400px;
+    max-width: 400px;
+    min-height: 425px;
+    max-height: 425px;
+}
+.trump {
+    min-width: 415px;
+    max-width: 415 px;
+    min-height: 425px;
+    max-height: 425px;
+}
+.btn{
+    background-color: hotpink;
+    border: 5px solid red;
+    color: purple;
+
+}
+
+.container-fluid{
+    padding-top:100px;
+}
+
+.username {
+    background-color: deeppink;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.species {
+
+    background-color: lightpink;
+    font-size: 2rem;
+    text-align: center;
+
+}
+
+.tata {
+    background-color: purple;
+    border-radius: 1.5rem;
+    margin-right: 1rem;
+
+}
+
+.boutton {
+    margin-top: 100px;
+}
+
+.oui{
+    margin-top: 10px;
+    background-color: hotpink;
+    margin-bottom: 1rem;
+    width: 100%;
+}
+.non{
+    margin-top: 10px;
+    background-color: pink;
+    width: 100%;
+    padding: 0px;
+
+}
+
+.toto{
+    background-color: black;
+}
+
+.question{
+    margin-top: 1rem;
+    background-color: purple;
+    border-radius: 1.5rem;
+    font-size: 1.8rem;
+    text-align: center;
+    padding: 0.5rem;
+}
